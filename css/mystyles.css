@@ -1,0 +1,11 @@
+.mb-2{
+    width: 900px
+
+}
+h2{
+    font-family: 'Comic Sans', 'Courier New', 'Courier New', Courier, monospace;
+}
+
+.darkcolor{
+    background-color: rgb(35, 35, 113) !important; 
+}
